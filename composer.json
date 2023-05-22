@@ -9,11 +9,11 @@
     "Facebook",
     "Messenger"
   ],
-  "homepage": "http://github.com/oidre/botman-driver-facebook",
+  "homepage": "http://github.com/botman/driver-facebook",
   "authors": [
     {
-      "name": "Andre",
-      "email": "oidre.dev@gmail.com"
+      "name": "Marcel Pociot",
+      "email": "m.pociot@gmail.com"
     }
   ],
   "require": {
